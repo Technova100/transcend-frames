@@ -18,7 +18,7 @@ const robotoFlex = Roboto_Flex({
 });
 
 export const metadata: Metadata = {
-  title: "Transcend Frames | Future-Ready IT & Media",
+  title: "Transcend Frames",
   description: "Strategy, Design, and Technology in perfect sync.",
   icons: {
     icon: '/TF.png',
